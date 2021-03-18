@@ -1,1 +1,1 @@
-# -core-concepts
+# core-concepts
